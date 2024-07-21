@@ -1,4 +1,4 @@
-# task 01 == Виправте синтаксичні помилки
+git push origin master# task 01 == Виправте синтаксичні помилки
 print("Hello", end = " ")
     print("world!")
 
